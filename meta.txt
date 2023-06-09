@@ -1,0 +1,22 @@
+
+  <!-- HTML Meta Tags -->
+  <title>Iván Ecónomo - Portfolio</title>
+  <meta name="description" content="Portafolio de proyectos, habilidades y tecnologías que manejo como fullstack web developer.">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://ivaneconomo.netlify.app">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Iván Ecónomo - Portfolio">
+  <meta property="og:description" content="Portafolio de proyectos, habilidades y tecnologías que manejo como fullstack web developer.">
+  <meta property="og:image" content="https://raw.githubusercontent.com/ivaneconomo/bucket/main/ivaneco_portfolio.jpg?token=GHSAT0AAAAAACDXJCX4YFOHRV3UFCBXZF4MZEDXSNQ">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="ivaneconomo.netlify.app">
+  <meta property="twitter:url" content="https://ivaneconomo.netlify.app">
+  <meta name="twitter:title" content="Iván Ecónomo - Portfolio">
+  <meta name="twitter:description" content="Portafolio de proyectos, habilidades y tecnologías que manejo como fullstack web developer.">
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/ivaneconomo/bucket/main/ivaneco_portfolio.jpg?token=GHSAT0AAAAAACDXJCX4YFOHRV3UFCBXZF4MZEDXSNQ">
+
+  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+        
